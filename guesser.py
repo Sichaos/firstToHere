@@ -13,7 +13,7 @@ while not found:
         found=True
     elif userGuess>randomNumber:
         print "Guess lower!!"
-        else
+    elif
         print "Guess higher!!"
 
 
